@@ -1,0 +1,12 @@
+# Editors
+.vscode/
+.idea/
+
+#Documents
+*.docx
+*.xml
+*.xhtml
+
+
+#Logs
+*.log
